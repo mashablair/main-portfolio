@@ -66,3 +66,8 @@ footer {
   text-align: center;
   padding-bottom: 3em;
 }
+
+.text-center {
+    background-color: #EEEEEE;
+    padding-top: 20px
+}
